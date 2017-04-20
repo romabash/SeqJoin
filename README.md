@@ -1,9 +1,9 @@
 # SeqJoin
-###SeqJoin joins two sequencing files taken from forward and reverse primers together
+### SeqJoin joins two sequencing files taken from forward and reverse primers together
 
-####Written in Python2.7 and Biopython
+#### Written in Python2.7 and Biopython
 
-###Example:
+### Example:
 
 > Import SeqJoin and Biopython:
 ```python
